@@ -154,3 +154,8 @@ body{
     margin-left: 70px;
     line-height: 45px
 }
+@media(max-width: 450px) {
+    body{
+        transform: scale(0.4);
+    }
+}
